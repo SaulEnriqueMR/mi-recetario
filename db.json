@@ -2,6 +2,7 @@
   "recetas": [
     {
       "id": 0,
+      "idUsuario": 0,
       "nombre": "Dip de Tres Chiles",
       "dificultad": "Baja",
       "tiempoDePreparacion": {"id": 0, "cantidad": 30, "denominacion": "minuto"},
@@ -58,6 +59,7 @@
     },
     {
       "id": 1,
+      "idUsuario": 1,
       "nombre": "Chilaquiles con mariscos",
       "dificultad": "Baja",
       "tiempoDePreparacion": {"id": 1, "cantidad": 35, "denominacion": "minuto"},
@@ -131,18 +133,6 @@
       "id": 1,
       "nombre": "Andrea L.",
       "alias": "pony"
-    }
-  ],
-  "publicaciones": [
-    {
-      "id": 0,
-      "idUsuario": 0,
-      "idReceta": 0
-    },
-    {
-      "id": 1,
-      "idUsuario": 1,
-      "idReceta": 1
     }
   ]
 }
