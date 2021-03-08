@@ -4,138 +4,30 @@
       "id": 0,
       "nombre": "Dip de Tres Chiles",
       "dificultad": "Baja",
-      "tiempoDePreparacion": {
-        "id": 0,
-        "cantidad": 30,
-        "denominacion": "minuto"
-      },
+      "tiempoDePreparacion": {"id": 0, "cantidad": 30, "denominacion": "minuto"},
       "descripcion": "Esta saludable botana de Dip de Tres Chiles es todo lo que necesitas para mantener tu estilo de vida de una forma deliciosa. El dip está hecho con chile jalapeño, chile poblano y chile serrano, una combinación picante y ácida que queda a la perfección con tus verduras favoritas.\nEste Dip de Tres Chiles es una receta perfecta para servir como botana en la siguiente Navidad, o en la cena de Año Nuevo, vive una temporada deliciosa y saludable. ¿Qué otras verduras comerías con este dip?",
       "ingradientes": [
-        {
-          "id": 0,
-          "ingrediente": "Diente de ajo",
-          "cantidad": 1,
-          "denominacion": "pieza"
-        },
-        {
-          "id": 1,
-          "ingrediente": "Chile jalapeño",
-          "cantidad": 1,
-          "denominacion": "pieza"
-        },
-        {
-          "id": 2,
-          "ingrediente": "Chile poblano",
-          "cantidad": 1,
-          "denominacion": "pieza"
-        },
-        {
-          "id": 3,
-          "ingrediente": "Chile serrano",
-          "cantidad": 1,
-          "denominacion": "pieza"
-        },
-        {
-          "id": 4,
-          "ingrediente": "Queso crema",
-          "cantidad": 1,
-          "denominacion": "taza"
-        },
-        {
-          "id": 5,
-          "ingrediente": "Crema para batir",
-          "cantidad": 0.5,
-          "denominacion": "taza"
-        },
-        {
-          "id": 6,
-          "ingrediente": "Cilantro fresco",
-          "cantidad": 0.25,
-          "denominacion": "taza"
-        },
-        {
-          "id": 7,
-          "ingrediente": "Sal",
-          "cantidad": 1,
-          "denominacion": "pizca"
-        },
-        {
-          "id": 8,
-          "ingrediente": "Pimiento",
-          "cantidad": 1,
-          "denominacion": "pizca"
-        },
-        {
-          "id": 9,
-          "ingrediente": "Aceite de oliva",
-          "cantidad": 1,
-          "denominacion": "cucharada"
-        },
-        {
-          "id": 10,
-          "ingrediente": "Tocino",
-          "cantidad": 1,
-          "denominacion": "taza",
-          "anotacion": "finamente picado y frito, para servir"
-        },
-        {
-          "id": 11,
-          "ingrediente": "Pepino",
-          "cantidad": 1,
-          "denominacion": "taza",
-          "anotacion": "cortado en bastones"
-        },
-        {
-          "id": 12,
-          "ingrediente": "Pimiento morrón",
-          "cantidad": 1,
-          "denominacion": "taza",
-          "anotacion": "de colores, cortados en bastones"
-        },
-        {
-          "id": 13,
-          "ingrediente": "Zanahoria",
-          "cantidad": 2,
-          "denominacion": "cantidad",
-          "anotacion": "cortada en bastones"
-        },
-        {
-          "id": 14,
-          "ingrediente": "Apio",
-          "cantidad": 1,
-          "denominacion": "cortado en bastones"
-        },
-        {
-          "id": 15,
-          "ingrediente": "Betabel",
-          "cantidad": 1,
-          "denominacion": "cantidad"
-        },
-        {
-          "id": 16,
-          "ingrediente": "Jícama",
-          "cantidad": 1,
-          "denominacion": "taza",
-          "anotacion": "cortada en bastones"
-        },
-        {
-          "id": 17,
-          "ingrediente": "Tomate cherry",
-          "cantidad": 2,
-          "denominacion": "taza",
-          "anotacion": "de colores"
-        },
-        {
-          "id": 18,
-          "ingrediente": "Verdura",
-          "cantidad": 1,
-          "denominacion": "taza",
-          "anotacion": "deshidratada"
-        }
-      ],
-      "ingredientesExtras": [
-        {"id": 0, "ingrediente": "suficiente de perejil"},
-        {"id": 1, "ingrediente": "suficiente de romero"}
+        {"id": 0, "ingrediente": "Diente de ajo", "cantidad": 1, "denominacion": "pieza"},
+        {"id": 1, "ingrediente": "Chile jalapeño", "cantidad": 1, "denominacion": "pieza"},
+        {"id": 2, "ingrediente": "Chile poblano", "cantidad": 1, "denominacion": "pieza"},
+        {"id": 3, "ingrediente": "Chile serrano", "cantidad": 1, "denominacion": "pieza"},
+        {"id": 4, "ingrediente": "Queso crema", "cantidad": 1, "denominacion": "taza"},
+        {"id": 5, "ingrediente": "Crema para batir", "cantidad": 0.5, "denominacion": "taza"},
+        {"id": 6, "ingrediente": "Cilantro fresco", "cantidad": 0.25, "denominacion": "taza"},
+        {"id": 7, "ingrediente": "Sal", "cantidad": 1, "denominacion": "pizca"},
+        {"id": 8, "ingrediente": "Pimiento", "cantidad": 1, "denominacion": "pizca"},
+        {"id": 9, "ingrediente": "Aceite de oliva", "cantidad": 1, "denominacion": "cucharada"},
+        {"id": 10, "ingrediente": "Tocino", "cantidad": 1, "denominacion": "taza", "anotacion": "finamente picado y frito, para servir"},
+        {"id": 11, "ingrediente": "Pepino", "cantidad": 1, "denominacion": "taza", "anotacion": "cortado en bastones"},
+        {"id": 12, "ingrediente": "Pimiento morrón", "cantidad": 1, "denominacion": "taza", "anotacion": "de colores, cortados en bastones"},
+        {"id": 13, "ingrediente": "Zanahoria", "cantidad": 2, "denominacion": "cantidad", "anotacion": "cortada en bastones"},
+        {"id": 14, "ingrediente": "Apio", "cantidad": 1, "denominacion": "cortado en bastones"},
+        {"id": 15, "ingrediente": "Betabel", "cantidad": 1, "denominacion": "cantidad"},
+        {"id": 16, "ingrediente": "Jícama", "cantidad": 1, "denominacion": "taza", "anotacion": "cortada en bastones"},
+        {"id": 17, "ingrediente": "Tomate cherry", "cantidad": 2, "denominacion": "taza", "anotacion": "de colores"},
+        {"id": 18, "ingrediente": "Verdura", "cantidad": 1, "denominacion": "taza", "anotacion": "deshidratada"},
+        {"id": 19, "ingrediente": "suficiente de perejil"},
+        {"id": 20, "ingrediente": "suficiente de romero"}
       ],
       "preparacion": [
         {
@@ -168,114 +60,29 @@
       "id": 1,
       "nombre": "Chilaquiles con mariscos",
       "dificultad": "Baja",
-      "tiempoDePreparacion": {
-        "id": 1,
-        "cantidad": 35,
-        "denominacion": "minuto"
-      },
+      "tiempoDePreparacion": {"id": 1, "cantidad": 35, "denominacion": "minuto"},
       "descripcion": "Dale un giro a tus clásicos chilaquiles y prepara estos chilaquiles verdes con habanero, camarones, pulpo y calamar. Ideal para el antojo o una mañana después de la fiesta. ¡Te van a encantar!",
       "ingredientes": [
-        {
-          "id": 19,
-          "ingrediente": "Tortilla de maiz",
-          "cantidad": 500,
-          "denominacion": "gramos",
-          "anotacion": "cortada en triángulos"
-        },
-        {
-          "id": 20,
-          "ingrediente": "Tomates verdes",
-          "cantidad": 30,
-          "denominacion": "pieza",
-          "anotacion": "cortada en mitades"
-        },
-        {
-          "id": 21,
-          "ingrediente": "Cebolla asada",
-          "cantidad": 0.5,
-          "denominacion": "cantidad",
-          "anotacion": "asada"
-        },
-        {
-          "id": 22,
-          "ingrediente": "Ajo",
-          "cantidad": 1,
-          "denominacion": "diente",
-          "anotacion": "asado"
-        },
-        {
-          "id": 23,
-          "ingrediente": "Chiles habaneros",
-          "cantidad": 2,
-          "denominacion": "cantidad",
-          "anotacion": "asado"
-        },
-        {
-          "id": 24,
-          "ingrediente": "Cilantro",
-          "cantidad": 1,
-          "denominacion": "taza"
-        },
-        {
-          "id": 25,
-          "ingrediente": "Comino",
-          "cantidad": 1,
-          "denominacion": "cucharadita"
-        },
-        {
-          "id": 26,
-          "ingrediente": "Mantequilla",
-          "cantidad": 2,
-          "denominacion": "cucharada"
-        },
-        {
-          "id": 27,
-          "ingrediente": "Cebolla",
-          "cantidad": 0.25,
-          "denominacion": "taza",
-          "anotacion": "finamente picada"
-        },
-        {
-          "id": 28,
-          "ingrediente": "Ajo",
-          "cantidad": 1,
-          "denominacion": "cucharada",
-          "anotacion": "picado finamente"
-        },
-        {
-          "id": 29,
-          "ingrediente": "Camarón",
-          "cantidad": 0.5,
-          "denominacion": "taza",
-          "anotacion": "medianos, frescos sin cáscara y limpios"
-        },
-        {
-          "id": 30,
-          "ingrediente": "Pulpo",
-          "cantidad": 0.5,
-          "denominacion": "taza",
-          "anotacion": "precocido, en trozos medianos"
-        },
-        {
-          "id": 31,
-          "ingrediente": "Calamr",
-          "cantidad": 0.5,
-          "denominacion": "taza"
-        },
-        {
-          "id": 32,
-          "ingrediente": "Pimientas gordas",
-          "cantidad": 3,
-          "denominacion": "cantidad"
-        }
-      ],
-      "ingredientesExtras": [
-        {"id": 2, "ingrediente": "suficiente de aceite"},
-        {"id": 3, "ingrediente": "sal al gusto"},
-        {"id": 4, "ingrediente": "suficiente de crema, para servir"},
-        {"id": 5, "ingrediente": "suficiente de queso panela, para servir"},
-        {"id": 6, "ingrediente": "suficiente de cebolla morada, para servir"},
-        {"id": 7, "ingrediente": "suficiente de cilantro, para servir"}
+        {"id": 21, "ingrediente": "Tortilla de maiz", "cantidad": 500, "denominacion": "gramos", "anotacion": "cortada en triángulos"},
+        {"id": 22, "ingrediente": "Tomates verdes", "cantidad": 30, "denominacion": "pieza", "anotacion": "cortada en mitades"},
+        {"id": 22, "ingrediente": "Cebolla asada", "cantidad": 0.5, "denominacion": "cantidad", "anotacion": "asada"},
+        {"id": 23, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "diente", "anotacion": "asado"},
+        {"id": 24, "ingrediente": "Chiles habaneros", "cantidad": 2, "denominacion": "cantidad", "anotacion": "asado"},
+        {"id": 25, "ingrediente": "Cilantro", "cantidad": 1, "denominacion": "taza"},
+        {"id": 26, "ingrediente": "Comino", "cantidad": 1, "denominacion": "cucharadita"},
+        {"id": 27, "ingrediente": "Mantequilla", "cantidad": 2, "denominacion": "cucharada"},
+        {"id": 28, "ingrediente": "Cebolla", "cantidad": 0.25, "denominacion": "taza", "anotacion": "finamente picada"},
+        {"id": 29, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "cucharada", "anotacion": "picado finamente"},
+        {"id": 30, "ingrediente": "Camarón", "cantidad": 0.5, "denominacion": "taza", "anotacion": "medianos, frescos sin cáscara y limpios"},
+        {"id": 31, "ingrediente": "Pulpo", "cantidad": 0.5, "denominacion": "taza", "anotacion": "precocido, en trozos medianos"},
+        {"id": 32, "ingrediente": "Calamr", "cantidad": 0.5, "denominacion": "taza"},
+        {"id": 33, "ingrediente": "Pimientas gordas", "cantidad": 3, "denominacion": "cantidad"},
+        {"id": 34, "ingrediente": "suficiente de aceite"},
+        {"id": 35, "ingrediente": "sal al gusto"},
+        {"id": 36, "ingrediente": "suficiente de crema, para servir"},
+        {"id": 37, "ingrediente": "suficiente de queso panela, para servir"},
+        {"id": 38, "ingrediente": "suficiente de cebolla morada, para servir"},
+        {"id": 39, "ingrediente": "suficiente de cilantro, para servir"}
       ],
       "preparacion": [
         {
