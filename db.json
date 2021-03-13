@@ -5,123 +5,75 @@
       "idUsuario": 0,
       "nombre": "Dip de Tres Chiles",
       "dificultad": "Baja",
-      "tiempoDePreparacion": {"id": 0, "cantidad": 30, "denominacion": "minuto"},
-      "descripcion": "Esta saludable botana de Dip de Tres Chiles es todo lo que necesitas para mantener tu estilo de vida de una forma deliciosa. El dip está hecho con chile jalapeño, chile poblano y chile serrano, una combinación picante y ácida que queda a la perfección con tus verduras favoritas.\nEste Dip de Tres Chiles es una receta perfecta para servir como botana en la siguiente Navidad, o en la cena de Año Nuevo, vive una temporada deliciosa y saludable. ¿Qué otras verduras comerías con este dip?",
-      "ingradientes": [
-        {"id": 0, "ingrediente": "Diente de ajo", "cantidad": 1, "denominacion": "pieza"},
-        {"id": 1, "ingrediente": "Chile jalapeño", "cantidad": 1, "denominacion": "pieza"},
-        {"id": 2, "ingrediente": "Chile poblano", "cantidad": 1, "denominacion": "pieza"},
-        {"id": 3, "ingrediente": "Chile serrano", "cantidad": 1, "denominacion": "pieza"},
-        {"id": 4, "ingrediente": "Queso crema", "cantidad": 1, "denominacion": "taza"},
-        {"id": 5, "ingrediente": "Crema para batir", "cantidad": 0.5, "denominacion": "taza"},
-        {"id": 6, "ingrediente": "Cilantro fresco", "cantidad": 0.25, "denominacion": "taza"},
-        {"id": 7, "ingrediente": "Sal", "cantidad": 1, "denominacion": "pizca"},
-        {"id": 8, "ingrediente": "Pimiento", "cantidad": 1, "denominacion": "pizca"},
-        {"id": 9, "ingrediente": "Aceite de oliva", "cantidad": 1, "denominacion": "cucharada"},
-        {"id": 10, "ingrediente": "Tocino", "cantidad": 1, "denominacion": "taza", "anotacion": "finamente picado y frito, para servir"},
-        {"id": 11, "ingrediente": "Pepino", "cantidad": 1, "denominacion": "taza", "anotacion": "cortado en bastones"},
-        {"id": 12, "ingrediente": "Pimiento morrón", "cantidad": 1, "denominacion": "taza", "anotacion": "de colores, cortados en bastones"},
-        {"id": 13, "ingrediente": "Zanahoria", "cantidad": 2, "denominacion": "cantidad", "anotacion": "cortada en bastones"},
-        {"id": 14, "ingrediente": "Apio", "cantidad": 1, "denominacion": "cortado en bastones"},
-        {"id": 15, "ingrediente": "Betabel", "cantidad": 1, "denominacion": "cantidad"},
-        {"id": 16, "ingrediente": "Jícama", "cantidad": 1, "denominacion": "taza", "anotacion": "cortada en bastones"},
-        {"id": 17, "ingrediente": "Tomate cherry", "cantidad": 2, "denominacion": "taza", "anotacion": "de colores"},
-        {"id": 18, "ingrediente": "Verdura", "cantidad": 1, "denominacion": "taza", "anotacion": "deshidratada"},
-        {"id": 19, "ingrediente": "suficiente de perejil"},
-        {"id": 20, "ingrediente": "suficiente de romero"}
-      ],
-      "preparacion": [
-        {
-          "id": 0,
-          "paso": "En un comal asa el ajo junto con los chiles",
-          "cantidad": 10,
-          "denominacion": "minuto"
-        },
-        {
-          "id": 1,
-          "paso": "Una vez asados, reserva el ajo y coloca los chiles en una bolsa de plástico para que suden",
-          "cantidad": 15,
-          "denominacion": "minuto"
-        },
-        {
-          "id": 2,
-          "paso": "Retira los chiles de la bolsa, y con ayuda de un cuchillo, retira la piel, desvénalos y quita las semillas."
-        },
-        {
-          "id": 3,
-          "paso": "Licúa el queso crema con los chiles, el ajo asado, la crema para batir, el cilantro, la sal, la pimienta y el aceite de oliva hasta obtener una mezcla tersa"
-        },
-        {
-          "id": 4,
-          "paso": "Sirve con las verduras y decora con tocino frito"
-        }
-      ]
+      "descripcion": "Esta saludable botana de Dip de Tres Chiles es todo lo que necesitas para mantener tu estilo de vida de una forma deliciosa. El dip está hecho con chile jalapeño, chile poblano y chile serrano, una combinación picante y ácida que queda a la perfección con tus verduras favoritas.\nEste Dip de Tres Chiles es una receta perfecta para servir como botana en la siguiente Navidad, o en la cena de Año Nuevo, vive una temporada deliciosa y saludable. ¿Qué otras verduras comerías con este dip?"
     },
     {
       "id": 1,
       "idUsuario": 1,
       "nombre": "Chilaquiles con mariscos",
       "dificultad": "Baja",
-      "tiempoDePreparacion": {"id": 1, "cantidad": 35, "denominacion": "minuto"},
-      "descripcion": "Dale un giro a tus clásicos chilaquiles y prepara estos chilaquiles verdes con habanero, camarones, pulpo y calamar. Ideal para el antojo o una mañana después de la fiesta. ¡Te van a encantar!",
-      "ingredientes": [
-        {"id": 21, "ingrediente": "Tortilla de maiz", "cantidad": 500, "denominacion": "gramos", "anotacion": "cortada en triángulos"},
-        {"id": 22, "ingrediente": "Tomates verdes", "cantidad": 30, "denominacion": "pieza", "anotacion": "cortada en mitades"},
-        {"id": 22, "ingrediente": "Cebolla asada", "cantidad": 0.5, "denominacion": "cantidad", "anotacion": "asada"},
-        {"id": 23, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "diente", "anotacion": "asado"},
-        {"id": 24, "ingrediente": "Chiles habaneros", "cantidad": 2, "denominacion": "cantidad", "anotacion": "asado"},
-        {"id": 25, "ingrediente": "Cilantro", "cantidad": 1, "denominacion": "taza"},
-        {"id": 26, "ingrediente": "Comino", "cantidad": 1, "denominacion": "cucharadita"},
-        {"id": 27, "ingrediente": "Mantequilla", "cantidad": 2, "denominacion": "cucharada"},
-        {"id": 28, "ingrediente": "Cebolla", "cantidad": 0.25, "denominacion": "taza", "anotacion": "finamente picada"},
-        {"id": 29, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "cucharada", "anotacion": "picado finamente"},
-        {"id": 30, "ingrediente": "Camarón", "cantidad": 0.5, "denominacion": "taza", "anotacion": "medianos, frescos sin cáscara y limpios"},
-        {"id": 31, "ingrediente": "Pulpo", "cantidad": 0.5, "denominacion": "taza", "anotacion": "precocido, en trozos medianos"},
-        {"id": 32, "ingrediente": "Calamr", "cantidad": 0.5, "denominacion": "taza"},
-        {"id": 33, "ingrediente": "Pimientas gordas", "cantidad": 3, "denominacion": "cantidad"},
-        {"id": 34, "ingrediente": "suficiente de aceite"},
-        {"id": 35, "ingrediente": "sal al gusto"},
-        {"id": 36, "ingrediente": "suficiente de crema, para servir"},
-        {"id": 37, "ingrediente": "suficiente de queso panela, para servir"},
-        {"id": 38, "ingrediente": "suficiente de cebolla morada, para servir"},
-        {"id": 39, "ingrediente": "suficiente de cilantro, para servir"}
-      ],
-      "preparacion": [
-        {
-          "id": 5,
-          "paso": "Para hacer los totopos, en una ollita con aceite fríe las tortillas de maíz",
-          "cantidad": 5,
-          "denominacion": "minuto",
-          "anotacion": "o hasta que cambien de color y se vuelvan crujientes. Escurre en papel absorbente y reserva."
-        },
-        {
-          "id": 6,
-          "paso": "En una ollita, hierve los tomates",
-          "cantidad": 15,
-          "denominacion": "minuto"
-        },
-        {
-          "id": 7,
-          "paso": "Licúalos junto con la cebolla asada, el ajo asado, el chile habanero asado, el cilantro, el comino, la pimienta gorda"
-        },
-        {
-          "id": 8,
-          "paso": "En un sartén profundo calienta la mantequilla y cocina la cebolla, el ajo, los camarones, el pulpo y los calamares",
-          "cantidad": 5,
-          "denominacion": "minuto"
-        },
-        {
-          "id": 9,
-          "paso": "Agrega la salsa, sazona con sal y pimienta, y cocina",
-          "cantidad": 10,
-          "denominacion": "minuto"
-        },
-        {
-          "id": 10,
-          "paso": "Coloca los totopos en un plato, sirve la salsa con los mariscos y decora con crema, queso panela, cebolla morada y cilantro"
-        }
-      ]
+      "descripcion": "Dale un giro a tus clásicos chilaquiles y prepara estos chilaquiles verdes con habanero, camarones, pulpo y calamar. Ideal para el antojo o una mañana después de la fiesta. ¡Te van a encantar!"
     }
+  ],
+  "tiempoDePreparacion": [
+    {"id": 0, "idReceta": 0, "cantidad": 30, "denominacion": "minuto"},
+    {"id": 1, "idReceta": 1, "cantidad": 35, "denominacion": "minuto"}
+  ],
+  "ingredientes": [
+    {"id": 0, "idReceta": 0, "ingrediente": "Diente de ajo", "cantidad": 1, "denominacion": "pieza"},
+    {"id": 1, "idReceta": 0, "ingrediente": "Chile jalapeño", "cantidad": 1, "denominacion": "pieza"},
+    {"id": 2, "idReceta": 0, "ingrediente": "Chile poblano", "cantidad": 1, "denominacion": "pieza"},
+    {"id": 3, "idReceta": 0, "ingrediente": "Chile serrano", "cantidad": 1, "denominacion": "pieza"},
+    {"id": 4, "idReceta": 0, "ingrediente": "Queso crema", "cantidad": 1, "denominacion": "taza"},
+    {"id": 5, "idReceta": 0, "ingrediente": "Crema para batir", "cantidad": 0.5, "denominacion": "taza"},
+    {"id": 6, "idReceta": 0, "ingrediente": "Cilantro fresco", "cantidad": 0.25, "denominacion": "taza"},
+    {"id": 7, "idReceta": 0, "ingrediente": "Sal", "cantidad": 1, "denominacion": "pizca"},
+    {"id": 8, "idReceta": 0, "ingrediente": "Pimiento", "cantidad": 1, "denominacion": "pizca"},
+    {"id": 9, "idReceta": 0, "ingrediente": "Aceite de oliva", "cantidad": 1, "denominacion": "cucharada"},
+    {"id": 10, "idReceta": 0, "ingrediente": "Tocino", "cantidad": 1, "denominacion": "taza", "anotacion": "finamente picado y frito, para servir"},
+    {"id": 11, "idReceta": 0, "ingrediente": "Pepino", "cantidad": 1, "denominacion": "taza", "anotacion": "cortado en bastones"},
+    {"id": 12, "idReceta": 0, "ingrediente": "Pimiento morrón", "cantidad": 1, "denominacion": "taza", "anotacion": "de colores, cortados en bastones"},
+    {"id": 13, "idReceta": 0, "ingrediente": "Zanahoria", "cantidad": 2, "denominacion": "cantidad", "anotacion": "cortada en bastones"},
+    {"id": 14, "idReceta": 0, "ingrediente": "Apio", "cantidad": 1, "denominacion": "cortado en bastones"},
+    {"id": 15, "idReceta": 0, "ingrediente": "Betabel", "cantidad": 1, "denominacion": "cantidad"},
+    {"id": 16, "idReceta": 0, "ingrediente": "Jícama", "cantidad": 1, "denominacion": "taza", "anotacion": "cortada en bastones"},
+    {"id": 17, "idReceta": 0, "ingrediente": "Tomate cherry", "cantidad": 2, "denominacion": "taza", "anotacion": "de colores"},
+    {"id": 18, "idReceta": 0, "ingrediente": "Verdura", "cantidad": 1, "denominacion": "taza", "anotacion": "deshidratada"},
+    {"id": 19, "idReceta": 0, "ingrediente": "suficiente de perejil"},
+    {"id": 20, "idReceta": 0, "ingrediente": "suficiente de romero"},
+    {"id": 21, "idReceta": 1, "ingrediente": "Tortilla de maiz", "cantidad": 500, "denominacion": "gramos", "anotacion": "cortada en triángulos"},
+    {"id": 22, "idReceta": 1, "ingrediente": "Tomates verdes", "cantidad": 30, "denominacion": "pieza", "anotacion": "cortada en mitades"},
+    {"id": 22, "idReceta": 1, "ingrediente": "Cebolla asada", "cantidad": 0.5, "denominacion": "cantidad", "anotacion": "asada"},
+    {"id": 23, "idReceta": 1, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "diente", "anotacion": "asado"},
+    {"id": 24, "idReceta": 1, "ingrediente": "Chiles habaneros", "cantidad": 2, "denominacion": "cantidad", "anotacion": "asado"},
+    {"id": 25, "idReceta": 1, "ingrediente": "Cilantro", "cantidad": 1, "denominacion": "taza"},
+    {"id": 26, "idReceta": 1, "ingrediente": "Comino", "cantidad": 1, "denominacion": "cucharadita"},
+    {"id": 27, "idReceta": 1, "ingrediente": "Mantequilla", "cantidad": 2, "denominacion": "cucharada"},
+    {"id": 28, "idReceta": 1, "ingrediente": "Cebolla", "cantidad": 0.25, "denominacion": "taza", "anotacion": "finamente picada"},
+    {"id": 29, "idReceta": 1, "ingrediente": "Ajo", "cantidad": 1, "denominacion": "cucharada", "anotacion": "picado finamente"},
+    {"id": 30, "idReceta": 1, "ingrediente": "Camarón", "cantidad": 0.5, "denominacion": "taza", "anotacion": "medianos, frescos sin cáscara y limpios"},
+    {"id": 31, "idReceta": 1, "ingrediente": "Pulpo", "cantidad": 0.5, "denominacion": "taza", "anotacion": "precocido, en trozos medianos"},
+    {"id": 32, "idReceta": 1, "ingrediente": "Calamr", "cantidad": 0.5, "denominacion": "taza"},
+    {"id": 33, "idReceta": 1, "ingrediente": "Pimientas gordas", "cantidad": 3, "denominacion": "cantidad"},
+    {"id": 34, "idReceta": 1, "ingrediente": "suficiente de aceite"},
+    {"id": 35, "idReceta": 1, "ingrediente": "sal al gusto"},
+    {"id": 36, "idReceta": 1, "ingrediente": "suficiente de crema, para servir"},
+    {"id": 37, "idReceta": 1, "ingrediente": "suficiente de queso panela, para servir"},
+    {"id": 38, "idReceta": 1, "ingrediente": "suficiente de cebolla morada, para servir"},
+    {"id": 39, "idReceta": 1, "ingrediente": "suficiente de cilantro, para servir"}
+  ],
+  "pasos": [
+    {"id": 0, "idReceta": 0, "paso": "En un comal asa el ajo junto con los chiles", "cantidad": 10, "denominacion": "minuto"},
+    {"id": 1, "idReceta": 0, "paso": "Una vez asados, reserva el ajo y coloca los chiles en una bolsa de plástico para que suden", "cantidad": 15, "denominacion": "minuto"},
+    {"id": 2, "idReceta": 0, "paso": "Retira los chiles de la bolsa, y con ayuda de un cuchillo, retira la piel, desvénalos y quita las semillas."},
+    {"id": 3, "idReceta": 0, "paso": "Licúa el queso crema con los chiles, el ajo asado, la crema para batir, el cilantro, la sal, la pimienta y el aceite de oliva hasta obtener una mezcla tersa"},
+    {"id": 4, "idReceta": 0, "paso": "Sirve con las verduras y decora con tocino frito"}.,
+    {"id": 5, "idReceta": 1, "paso": "Para hacer los totopos, en una ollita con aceite fríe las tortillas de maíz", "cantidad": 5, "denominacion": "minuto", "anotacion": "o hasta que cambien de color y se vuelvan crujientes. Escurre en papel absorbente y reserva."},
+    {"id": 6, "idReceta": 1, "paso": "En una ollita, hierve los tomates", "cantidad": 15, "denominacion": "minuto"},
+    {"id": 7, "idReceta": 1, "paso": "Licúalos junto con la cebolla asada, el ajo asado, el chile habanero asado, el cilantro, el comino, la pimienta gorda"},
+    {"id": 8, "idReceta": 1, "paso": "En un sartén profundo calienta la mantequilla y cocina la cebolla, el ajo, los camarones, el pulpo y los calamares", "cantidad": 5, "denominacion": "minuto"},
+    {"id": 9, "idReceta": 1, "paso": "Agrega la salsa, sazona con sal y pimienta, y cocina", "cantidad": 10, "denominacion": "minuto"},
+    {"id": 10, "idReceta": 1, "paso": "Coloca los totopos en un plato, sirve la salsa con los mariscos y decora con crema, queso panela, cebolla morada y cilantro"}
   ],
   "usuarios": [
     {
