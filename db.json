@@ -67,7 +67,7 @@
     {"id": 1, "idReceta": 0, "paso": "Una vez asados, reserva el ajo y coloca los chiles en una bolsa de plástico para que suden", "cantidad": 15, "denominacion": "minuto"},
     {"id": 2, "idReceta": 0, "paso": "Retira los chiles de la bolsa, y con ayuda de un cuchillo, retira la piel, desvénalos y quita las semillas."},
     {"id": 3, "idReceta": 0, "paso": "Licúa el queso crema con los chiles, el ajo asado, la crema para batir, el cilantro, la sal, la pimienta y el aceite de oliva hasta obtener una mezcla tersa"},
-    {"id": 4, "idReceta": 0, "paso": "Sirve con las verduras y decora con tocino frito"}.,
+    {"id": 4, "idReceta": 0, "paso": "Sirve con las verduras y decora con tocino frito"},
     {"id": 5, "idReceta": 1, "paso": "Para hacer los totopos, en una ollita con aceite fríe las tortillas de maíz", "cantidad": 5, "denominacion": "minuto", "anotacion": "o hasta que cambien de color y se vuelvan crujientes. Escurre en papel absorbente y reserva."},
     {"id": 6, "idReceta": 1, "paso": "En una ollita, hierve los tomates", "cantidad": 15, "denominacion": "minuto"},
     {"id": 7, "idReceta": 1, "paso": "Licúalos junto con la cebolla asada, el ajo asado, el chile habanero asado, el cilantro, el comino, la pimienta gorda"},
